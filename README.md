@@ -6,5 +6,6 @@ This is the catkin workspace from the mastering gazebo ros course.
 
 required ros packages:
 
-- not sure, in progress
+- ros-noetic-desktop-full
+- turtlebot3_gazebo
 
