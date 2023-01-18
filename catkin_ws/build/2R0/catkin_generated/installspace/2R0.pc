@@ -1,8 +1,0 @@
-prefix=/home/user/catkin_ws/install
-
-Name: 2R0
-Description: Description of 2R0
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
