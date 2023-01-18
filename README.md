@@ -2,7 +2,7 @@
 
 This is the catkin workspace from the mastering gazebo ros course.
 
-##dependencies
+## Dependencies
 
 required ros packages:
 
